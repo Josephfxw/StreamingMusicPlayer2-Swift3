@@ -8,7 +8,7 @@
 ## Screenshots
 
 <p align="center">
-<img src="" width="350" height="667" alt="MusicIndicator"/>
+<img src="" width="350" height="667" alt="MusicPlayer"/>
 </p>
 
 
