@@ -1,9 +1,7 @@
 //
 //  MusicPlayerSwift3ContentView.swift
 //  MusicPlayerSwift3
-//
-//  Created by Aufree on 12/6/15.
-//  Copyright © 2015 The EST Group. All rights reserved.
+
 //
 //  Permission is hereby granted, free of charge, to any person obtaining a copy
 //  of this software and associated documentation files (the "Software"), to deal

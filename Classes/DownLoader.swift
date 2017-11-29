@@ -3,8 +3,7 @@
 //  MusicPlayerSwift3
 //
 //  Created by Joseph Fan on 6/16/17.
-//  Copyright © 2017 The EST Group. All rights reserved.
-//
+
 
 import Foundation
 import UIKit

@@ -1,10 +1,6 @@
 //
 //  Song.swift
-//  pennyplay
-//
-//  Created by grant on 05/02/2016.
-//  Copyright © 2016 GK Micro. All rights reserved.
-//
+
 
 import Foundation
 

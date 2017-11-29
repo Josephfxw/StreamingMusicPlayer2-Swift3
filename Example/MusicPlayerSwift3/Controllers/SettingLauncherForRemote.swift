@@ -3,16 +3,7 @@
 //  MusicPlayerSwift3
 //
 //  Created by Joseph Fan on 6/17/17.
-//  Copyright © 2017 The EST Group. All rights reserved.
-//
 
-//
-//  SettingsLauncherForRemote.swift
-//  youtube
-//
-//  Created by Brian Voong on 6/17/16.
-//  Copyright © 2016 letsbuildthatapp. All rights reserved.
-//
 
 import UIKit
 

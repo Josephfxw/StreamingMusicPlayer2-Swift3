@@ -2,9 +2,7 @@
 //  MusicListViewController.swift
 //  MusicPlayerSwift3
 //
-//  Created by Aufree on 12/28/15.
-//  Copyright © 2015 The EST Group. All rights reserved.
-//
+
 
 import UIKit
 

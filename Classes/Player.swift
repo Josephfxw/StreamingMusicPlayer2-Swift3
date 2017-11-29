@@ -3,16 +3,7 @@
 //  MusicPlayerSwift3
 //
 //  Created by Joseph Fan on 6/15/17.
-//  Copyright © 2017 The EST Group. All rights reserved.
-//
 
-//
-//  Player.swift
-//  pennyplay
-//
-//  Created by grant on 03/02/2016.
-//  Copyright © 2016 GK Micro. All rights reserved.
-//
 
 import Foundation
 import MediaPlayer

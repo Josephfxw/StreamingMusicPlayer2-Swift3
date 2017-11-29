@@ -3,16 +3,7 @@
 //  MusicPlayerSwift3
 //
 //  Created by Joseph Fan on 6/18/17.
-//  Copyright © 2017 The EST Group. All rights reserved.
-//
 
-//
-//  VideoCell.swift
-//  youtube
-//
-//  Created by Brian Voong on 6/3/16.
-//  Copyright © 2016 letsbuildthatapp. All rights reserved.
-//
 
 import UIKit
 
